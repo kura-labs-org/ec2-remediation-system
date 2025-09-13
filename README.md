@@ -104,7 +104,6 @@ Created a scoped application with the exact name "EC2 Monitoring and Remediation
 **ACL Records Added:**
 - Table ACLs: Found records with Type="record" and Name=custom table names
 - Script Include ACL: Found record with Name="EC2RemediationHelper"
-- UI Action ACL: Found record with Name="Trigger Remediation"
 - Added each ACL record to update set for proper security configuration
 
 ### 10. System Testing and Validation
